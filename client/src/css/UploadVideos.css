@@ -1,0 +1,24 @@
+.content-center {
+    width: 100%;
+    margin: auto!important;
+    max-height: 250px;
+}
+
+.thumbnail {
+    /* width: 640px; */
+    height: 250px;
+    /* width: 100%;
+    padding-top: 56.25%; */
+    margin-bottom: 1rem!important;
+    background-color: #f8f9fa!important;
+    border-color: #ababab;
+    border-width: 1px;
+    border-style: dashed;
+}
+
+.h-center {
+    padding-top: 30px;
+    padding-bottom: auto;
+    padding-top: auto;
+}
+
